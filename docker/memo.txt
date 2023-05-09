@@ -1,0 +1,9 @@
+2023/05/08
+pip install opencv-python　を追加。
+pip install seaborn　を追加。
+
+トラブルシューティング：
+
+1. mapがうまく表示されない 
+- 再読み込みをかける
+- 
